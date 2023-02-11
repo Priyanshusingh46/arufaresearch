@@ -1,0 +1,1 @@
+{"version":3,"file":"patternProperties.5.js","sourceRoot":"","sources":["../../../test/e2e/patternProperties.5.ts"],"names":[],"mappings":";;;AAAW,QAAA,KAAK,GAAG;IACjB,EAAE,EAAE,QAAQ;IACZ,IAAI,EAAE,QAAQ;IACd,oBAAoB,EAAE,IAAI;IAC1B,iBAAiB,EAAE;QACjB,SAAS,EAAE;YACT,EAAE,EAAE,aAAa;YACjB,IAAI,EAAE,QAAQ;SACf;QACD,YAAY,EAAE;YACZ,EAAE,EAAE,aAAa;YACjB,IAAI,EAAE,QAAQ;SACf;KACF;CACF,CAAA"}

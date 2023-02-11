@@ -1,0 +1,13 @@
+export declare const input: {
+    title: string;
+    properties: {
+        foo: {
+            $ref: string;
+        };
+        bar: {
+            $ref: string;
+        };
+    };
+    required: string[];
+    additionalProperties: boolean;
+};

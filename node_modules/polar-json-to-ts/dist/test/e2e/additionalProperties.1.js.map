@@ -1,0 +1,1 @@
+{"version":3,"file":"additionalProperties.1.js","sourceRoot":"","sources":["../../../test/e2e/additionalProperties.1.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,KAAK,EAAE,sBAAsB;IAC7B,IAAI,EAAE,QAAQ;IACd,UAAU,EAAE;QACV,GAAG,EAAE;YACH,IAAI,EAAE,QAAQ;SACf;KACF;IACD,oBAAoB,EAAE;QACpB,IAAI,EAAE,QAAQ;KACf;CACF,CAAA"}

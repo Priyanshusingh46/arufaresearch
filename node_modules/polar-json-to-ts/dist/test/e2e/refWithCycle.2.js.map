@@ -1,0 +1,1 @@
+{"version":3,"file":"refWithCycle.2.js","sourceRoot":"","sources":["../../../test/e2e/refWithCycle.2.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,KAAK,EAAE,WAAW;IAClB,UAAU,EAAE;QACV,GAAG,EAAE;YACH,IAAI,EAAE,6BAA6B;SACpC;KACF;IACD,QAAQ,EAAE,CAAC,KAAK,CAAC;IACjB,oBAAoB,EAAE,IAAI;CAC3B,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"emptyDefinition.js","sourceRoot":"","sources":["../../../test/e2e/emptyDefinition.ts"],"names":[],"mappings":";;;AAAA,mBAAmB;AACN,QAAA,KAAK,GAAG;IACnB,oBAAoB,EAAE;QACpB,IAAI,EAAE,2BAA2B;KAClC;IACD,WAAW,EAAE;QACX,WAAW,EAAE,EAAE;KAChB;CACF,CAAA"}

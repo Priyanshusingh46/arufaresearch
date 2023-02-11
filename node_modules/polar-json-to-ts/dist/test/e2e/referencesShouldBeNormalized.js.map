@@ -1,0 +1,1 @@
+{"version":3,"file":"referencesShouldBeNormalized.js","sourceRoot":"","sources":["../../../test/e2e/referencesShouldBeNormalized.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,KAAK,EAAE,aAAa;IACpB,IAAI,EAAE,QAAQ;IACd,UAAU,EAAE;QACV,CAAC,EAAE;YACD,IAAI,EAAE,iDAAiD;SACxD;KACF;IACD,QAAQ,EAAE,CAAC,GAAG,CAAC;CAChB,CAAA"}

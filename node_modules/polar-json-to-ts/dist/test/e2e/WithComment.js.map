@@ -1,0 +1,1 @@
+{"version":3,"file":"WithComment.js","sourceRoot":"","sources":["../../../test/e2e/WithComment.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,KAAK,EAAE,aAAa;IACpB,IAAI,EAAE,QAAQ;IACd,UAAU,EAAE;QACV,CAAC,EAAE;YACD,IAAI,EAAE,QAAQ;YACd,WAAW,EAAE,eAAe;YAC5B,UAAU,EAAE;gBACV,CAAC,EAAE;oBACD,IAAI,EAAE,QAAQ;oBACd,WAAW,EAAE,sBAAsB;iBACpC;aACF;SACF;KACF;CACF,CAAA"}

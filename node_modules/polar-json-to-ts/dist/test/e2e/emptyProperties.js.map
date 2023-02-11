@@ -1,0 +1,1 @@
+{"version":3,"file":"emptyProperties.js","sourceRoot":"","sources":["../../../test/e2e/emptyProperties.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,WAAW,EAAE;QACX,CAAC,EAAE,EAAE;KACN;IACD,UAAU,EAAE;QACV,CAAC,EAAE,EAAE;QACL,CAAC,EAAE,EAAC,IAAI,EAAE,iBAAiB,EAAC;KAC7B;CACF,CAAA"}

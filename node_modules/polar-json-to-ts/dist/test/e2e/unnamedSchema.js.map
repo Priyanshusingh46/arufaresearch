@@ -1,0 +1,1 @@
+{"version":3,"file":"unnamedSchema.js","sourceRoot":"","sources":["../../../test/e2e/unnamedSchema.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,IAAI,EAAE,QAAQ;IACd,UAAU,EAAE;QACV,GAAG,EAAE;YACH,IAAI,EAAE,QAAQ;SACf;KACF;IACD,QAAQ,EAAE,CAAC,KAAK,CAAC;IACjB,oBAAoB,EAAE,KAAK;CAC5B,CAAA"}

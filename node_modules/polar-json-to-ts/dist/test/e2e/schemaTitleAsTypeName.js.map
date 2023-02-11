@@ -1,0 +1,1 @@
+{"version":3,"file":"schemaTitleAsTypeName.js","sourceRoot":"","sources":["../../../test/e2e/schemaTitleAsTypeName.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,OAAO,EAAE,wCAAwC;IACjD,EAAE,EAAE,2CAA2C;IAC/C,KAAK,EAAE,aAAa;IACpB,IAAI,EAAE,QAAQ;IACd,UAAU,EAAE;QACV,GAAG,EAAE;YACH,IAAI,EAAE,oCAAoC;SAC3C;KACF;IACD,QAAQ,EAAE,CAAC,KAAK,CAAC;IACjB,oBAAoB,EAAE,KAAK;CAC5B,CAAA"}

@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TASK_TEST = exports.TASK_INSTALL = exports.TASK_REPL = exports.TASK_RUN = exports.TASK_NODE_INFO = exports.TASK_CLEAN = exports.TASK_COMPILE = exports.TASK_INIT = exports.TASK_HELP = void 0;
+exports.TASK_HELP = "help";
+exports.TASK_INIT = "init";
+exports.TASK_COMPILE = "compile";
+exports.TASK_CLEAN = "clean";
+exports.TASK_NODE_INFO = "node-info";
+exports.TASK_RUN = "run";
+exports.TASK_REPL = "repl";
+exports.TASK_INSTALL = "install";
+exports.TASK_TEST = "test";
+// export const TASK_CHECK = "check";
